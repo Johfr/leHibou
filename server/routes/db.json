@@ -1,0 +1,84 @@
+{
+  "events": [
+    {
+      "id": "1",
+      "name": "Conférence Vue.js",
+      "date": "2024-12-15",
+      "description": "Une conférence dédiée à Vue.js.",
+      "intervenant": "Evan You",
+      "type": "conférence"
+    },
+    {
+      "id": "2",
+      "name": "Atelier React",
+      "date": "2024-12-20",
+      "description": "Un atelier pratique sur React.",
+      "intervenant": "Dan Abramov",
+      "type": "conférence"
+    },
+    {
+      "id": "3",
+      "name": "Sommet IA 2024",
+      "date": "2025-01-10",
+      "description": "Un sommet pour discuter des avancées en intelligence artificielle.",
+      "intervenant": "Elon Musk",
+      "type": "conférence"
+    },
+    {
+      "id": "4",
+      "name": "Journée Blockchain",
+      "date": "2024-11-25",
+      "description": "Exploration des applications de la blockchain.",
+      "intervenant": "Vitalik Buterin",
+      "type": "conférence"
+    },
+    {
+      "id": "5",
+      "name": "Conférence Cybersécurité",
+      "date": "2024-12-05",
+      "description": "Les dernières tendances en cybersécurité.",
+      "intervenant": "Kevin Mitnick",
+      "type": "conférence"
+    },
+    {
+      "id": "6",
+      "name": "Hackathon",
+      "date": "2024-12-18",
+      "description": "Un hackathon pour développer des idées innovantes.",
+      "intervenant": "Marc Andreessen",
+      "type": "conférence"
+    },
+    {
+      "id": "7",
+      "name": "Séminaire UX",
+      "date": "2024-12-10",
+      "description": "Un séminaire pour améliorer vos compétences en UX design.",
+      "intervenant": "Don Norman",
+      "type": "conférence"
+    },
+    {
+      "id": "8",
+      "name": "Workshop data science",
+      "date": "2024-12-08",
+      "description": "Un workshop dédié à la data science et au machine learning.",
+      "intervenant": "Andrew Ng",
+      "type": "conférence"
+    },
+    {
+      "id": "9",
+      "name": "Festival des Jeux Vidéo",
+      "date": "2025-01-15",
+      "description": "Un festival pour les amateurs de jeux vidéo.",
+      "intervenant": "Hideo Kojima",
+      "type": "concert"
+    },
+    {
+      "id": "10",
+      "name": "Evènement mis à jour",
+      "date": "2024-11-30",
+      "intervenant": "Peter Thiel",
+      "description": "Un salon pour rencontrer les startups les plus innovantes.",
+      "type": "concert"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --spacing: 16px;
+  --themeColor: 0 0 0;
+  --red: 255 97 97;
+}
+
+button {
+  padding: 6px 12px;
+  background-color: rgb(231, 231, 231);
+  border-radius: calc(var(--spacing) / 2);
+}
+
+button:disabled {
+  cursor: not-allowed;
+  opacity: .4;
+}
+
+input, select {
+  border-bottom: 1px solid;
+}
+
+input:focus-visible {
+  outline: unset;
+}
+
+a {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: 700;
+  margin-bottom: var(--spacing);
+}
+
+.error {
+  color: rgba(var(--red));
+}
